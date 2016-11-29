@@ -73,9 +73,6 @@ result = connect_mysql.update('car_table', conditional_query, 'nissan', car_mode
 **Result:**
 This function return the amount of rows updated.
 
-## Donate Bitcoin
-16qDeh3a5w772HHsBPybimNXpvK1SPJRwm
-
 #### Delete data
 
 Delete data is really simple like insert, just reference the column as condition and table.
@@ -92,3 +89,6 @@ This function return the amount of rows deleted.
 ## Requirements
 
 MySQL-python >= 1.2.5
+
+## Donate Bitcoin
+16qDeh3a5w772HHsBPybimNXpvK1SPJRwm
