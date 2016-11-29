@@ -73,7 +73,8 @@ result = connect_mysql.update('car_table', conditional_query, 'nissan', car_mode
 **Result:**
 This function return the amount of rows updated.
 
----
+## Donate Bitcoin
+16qDeh3a5w772HHsBPybimNXpvK1SPJRwm
 
 #### Delete data
 
